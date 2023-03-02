@@ -51,7 +51,7 @@ build cmake_object_order_depends_target_Task_1: phony || CMakeFiles/Task_1.dir
 
 build CMakeFiles/Task_1.dir/main.cpp.obj: CXX_COMPILER__Task_1_Debug C$:/Repository/Task/main.cpp || cmake_object_order_depends_target_Task_1
   DEP_FILE = CMakeFiles\Task_1.dir\main.cpp.obj.d
-  FLAGS = -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Wall -Wextra -pedantic -Werror -std=gnu++14
+  FLAGS = -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Wall -Wextra -pedantic -Werror -std=gnu++17
   INCLUDES = -IC:/Repository/Task/cmake-build-debug
   OBJECT_DIR = CMakeFiles\Task_1.dir
   OBJECT_FILE_DIR = CMakeFiles\Task_1.dir

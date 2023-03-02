@@ -14,6 +14,7 @@ set(CPACK_BUILD_SOURCE_DIRS "C:/Repository/Task;C:/Repository/Task/cmake-build-d
 set(CPACK_CMAKE_GENERATOR "Ninja")
 set(CPACK_COMPONENT_UNSPECIFIED_HIDDEN "TRUE")
 set(CPACK_COMPONENT_UNSPECIFIED_REQUIRED "TRUE")
+set(CPACK_DEBIAN_PACKAGE_MAINTAINER "Vishnenko Maxim")
 set(CPACK_DEFAULT_PACKAGE_DESCRIPTION_FILE "C:/Program Files/JetBrains/CLion 2022.3.1/bin/cmake/win/share/cmake-3.24/Templates/CPack.GenericDescription.txt")
 set(CPACK_DEFAULT_PACKAGE_DESCRIPTION_SUMMARY "Task_1 built using CMake")
 set(CPACK_GENERATOR "7Z;ZIP")
