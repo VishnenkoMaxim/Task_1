@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-959f5321f17387c7701b.json",
+					"jsonFile" : "directory-.-Debug-3f766f0f07ade6db86e5.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.24"
@@ -44,21 +44,21 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Task_1::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Task_1-Debug-124640010459a55a71f5.json",
+					"jsonFile" : "target-Task_1-Debug-1a3399b4aefb2462a493.json",
 					"name" : "Task_1",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "task_lib::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-task_lib-Debug-f0bf94ad3baeb0e7c92c.json",
+					"jsonFile" : "target-task_lib-Debug-7ca1b968c14d8aa3718a.json",
 					"name" : "task_lib",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "test_version::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-test_version-Debug-4d38345b5f0e18b8c439.json",
+					"jsonFile" : "target-test_version-Debug-579292498e1bc906f324.json",
 					"name" : "test_version",
 					"projectIndex" : 0
 				}
