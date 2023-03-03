@@ -14,7 +14,7 @@ set(Boost_DBUG ON)
 cmake_print_variables(Boost_INCLUDE_DIR)
 cmake_print_variables(Boost_LIBRARIES)
 
-find_package(Boost COMPONENTS)
+find_package(Boost COMPONENTS unit_test_framework REQUIRED)
 
 add_executable(Task_1 main.cpp)
 add_library(task_lib lib.cpp)
