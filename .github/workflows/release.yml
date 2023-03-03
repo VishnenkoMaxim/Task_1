@@ -39,5 +39,5 @@ jobs:
           asset_path: ./Task_1-0.0.${{ github.run_number }}-Linux.deb
           asset_name: Task_1-0.0.${{ github.run_number }}-Linux.deb
           asset_content_type: application/vnd.debian.binary-package
-      - run: apt update && apt install -y Task_1-0.0.${{ github.run_number }}-Linux.deb
+      - run: sudo apt update && apt install -y Task_1-0.0.${{ github.run_number }}-Linux.deb
       - run: Task_1

@@ -6,5 +6,5 @@
 int main() {
     printf("Build %d\n", version());
     std::cout << "Hello, World!" << std::endl;
-    return 0; 
+    return 0;
 }
