@@ -1,6 +1,9 @@
 C:/Repository/Task/cmake-build-debug/CMakeFiles/Task_1.dir
+C:/Repository/Task/cmake-build-debug/CMakeFiles/task_lib.dir
+C:/Repository/Task/cmake-build-debug/CMakeFiles/test_version.dir
 C:/Repository/Task/cmake-build-debug/CMakeFiles/package.dir
 C:/Repository/Task/cmake-build-debug/CMakeFiles/package_source.dir
+C:/Repository/Task/cmake-build-debug/CMakeFiles/test.dir
 C:/Repository/Task/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Repository/Task/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 C:/Repository/Task/cmake-build-debug/CMakeFiles/list_install_components.dir

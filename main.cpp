@@ -1,11 +1,7 @@
 #include <iostream>
 #include <stdio.h>
 
-#include "version.h"
-
-int version() {
-    return PROJECT_VERSION_PATCH;
-}
+#include "lib.h"
 
 int main() {
     printf("Version: %d\n", version());

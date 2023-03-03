@@ -1,5 +1,6 @@
 "C:\Program Files\JetBrains\CLion 2022.3.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=ninja "-DCMAKE_C_COMPILER=C:/Program Files/LLVM/bin/clang.exe" "-DCMAKE_CXX_COMPILER=C:/Program Files/LLVM/bin/clang++.exe" -G Ninja -S C:\Repository\Task -B C:\Repository\Task\cmake-build-debug
 -- Boost_INCLUDE_DIR="C:/local/boost_1_81_0"
+-- Boost_LIBRARIES=""
 -- Configuring done
 -- Generating done
 -- Build files have been written to: C:/Repository/Task/cmake-build-debug
