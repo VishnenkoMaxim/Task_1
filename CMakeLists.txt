@@ -9,9 +9,8 @@ set(PROJECT_VERSION 0.0.${PATCH_VERSION})
 project(Task_1 VERSION  ${PROJECT_VERSION})
 configure_file(version.h.in version.h)
 
-#set(Boost_DBUG ON)
-#set(Boost_ROOT "C:/Program Files/boost_1_81_0")
-#find_package(Boost COMPONENTS)
+set(Boost_DBUG ON)
+find_package(Boost COMPONENTS unit_test_framework REQUIRED)
 
 add_executable(Task_1 main.cpp)
 set_target_properties(Task_1 PROPERTIES CXX_STANDARD 17 CXX_STANDARD_REQUIRED ON)
